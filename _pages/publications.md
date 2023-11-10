@@ -28,7 +28,7 @@ Dan Chen, Housheng Su, Xiaofan Wang, et al. Phys. Rev. E, 2021, 104(3): 034304
 [Identification of network topology variations based on spectral entropy](https://ieeexplore.ieee.org/abstract/document/9409704)<br>
 Housheng Su, Dan Chen, Gui-Jun Pan, et al. IEEE Transactions on Cybernetics, 2021, 52(10): 10468-10478
 
-Framework based on communicability to measure the similarity of nodes in complex networks](https://www.sciencedirect.com/science/article/abs/pii/S0020025520302279)<br>
+[Framework based on communicability to measure the similarity of nodes in complex networks](https://www.sciencedirect.com/science/article/abs/pii/S0020025520302279)<br>
 Dan Chen, Housheng Su, Gui-Jun Pan. Information Sciences, 2020, 524: 241-253
 
 [Characterization of network complexity by communicability sequence entropy and associated Jensen-Shannon divergence](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.101.042305)<br>
