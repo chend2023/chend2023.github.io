@@ -19,34 +19,34 @@ My other academic homepages:<br>
 Featured Publications<br>
 ### [Scaling Properties of Scale-Free Networks in Degree-Thresholding Renormalization Flows](https://ieeexplore.ieee.org/abstract/document/10100895)<br>
 D. Chen, D. Cai and H. Su, IEEE Transactions on Network Science and Engineering, 2023, 10(6): 3519-3528, Nov.-Dec. 2023.<br>
-Code is available at [Code](https://github.com/cdzqf/DTR).
-<img src="../images/Featured-Pub1.png" width="80%"><br>
+Code is available at [Code](https://github.com/cdzqf/DTR).<br>
+<img src="../images/Featured-Pub1.png" width="80%">
 
 ### [Geometric Renormalization Reveals the Self-Similarity of Weighted Networks](https://ieeexplore.ieee.org/abstract/document/9761989)<br>
-D. Chen, H. Su and Z. Zeng, IEEE Transactions on Computational Social Systems, 2023, 10(2): 426-434, April 2023.
-<img src="../images/Featured-Pub2.png" width="80%"><br>
+D. Chen, H. Su and Z. Zeng, IEEE Transactions on Computational Social Systems, 2023, 10(2): 426-434, April 2023.<br>
+<img src="../images/Featured-Pub2.png" width="80%">
 
 ### [Identification of Network Topology Variations Based on Spectral Entropy](https://ieeexplore.ieee.org/abstract/document/9409704)<br>
 H. Su, D. Chen, G. -J. Pan, et al. IEEE Transactions on Cybernetics, 2022, 52(10): 10468-10478, Oct. 2022.<br>
-Code is available at [Code](https://github.com/cdzqf/Spectral-entropy).
-<img src="../images/Featured-Pub3.png" width="80%"><br>
+Code is available at [Code](https://github.com/cdzqf/Spectral-entropy).<br>
+<img src="../images/Featured-Pub3.png" width="80%">
 
 ### [Finite-size scaling of geometric renormalization flows in complex networks](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.104.034304)<br>
-Dan Chen, Housheng Su, Xiaofan Wang, et al. Phys. Rev. E, 2021, 104(3): 034304.
-<img src="../images/Featured-Pub4.png" width="80%"><br>
+Dan Chen, Housheng Su, Xiaofan Wang, et al. Phys. Rev. E, 2021, 104(3): 034304.<br>
+<img src="../images/Featured-Pub4.png" width="80%">
 
 ### [Framework based on communicability to measure the similarity of nodes in complex networks](https://www.sciencedirect.com/science/article/abs/pii/S0020025520302279)<br>
-Dan Chen, Housheng Su, Gui-Jun Pan. Information Sciences, 2020, 524 (2020): 241–253.
-<img src="../images/Featured-Pub5.png" width="80%"><br>
+Dan Chen, Housheng Su, Gui-Jun Pan. Information Sciences, 2020, 524 (2020): 241–253.<br>
+<img src="../images/Featured-Pub5.png" width="80%">
 
 ### [Characterization of network complexity by communicability sequence entropy and associated Jensen-Shannon divergence](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.101.042305)<br>
-Dan-Dan Shi, Dan Chen, and Gui-Jun Pan. Phys. Rev. E, 2020, 101(4): 042305.
-<img src="../images/Featured-Pub6.png" width="80%"><br>
+Dan-Dan Shi, Dan Chen, and Gui-Jun Pan. Phys. Rev. E, 2020, 101(4): 042305.<br>
+<img src="../images/Featured-Pub6.png" width="80%">
 
 ### [Correlations between communicability sequence entropy and transport performance in spatially embedded networks](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.99.062310)<br>
-Dan Chen, Rui-Wu Niu, and Gui-Jun Pan. Phys. Rev. E, 2019, 99(6): 062310.
-<img src="../images/Featured-Pub7.png" width="80%"><br>
+Dan Chen, Rui-Wu Niu, and Gui-Jun Pan. Phys. Rev. E, 2019, 99(6): 062310.<br>
+<img src="../images/Featured-Pub7.png" width="80%">
 
 ### [Complex network comparison based on communicability sequence entropy](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.98.012319)<br>
-Dan Chen, Dan-Dan Shi, Mi Qin, et al. Phys. Rev. E, 2018, 98(1): 012319.
-<img src="../images/Featured-Pub8.png" width="80%"><br>
+Dan Chen, Dan-Dan Shi, Mi Qin, et al. Phys. Rev. E, 2018, 98(1): 012319.<br>
+<img src="../images/Featured-Pub8.png" width="80%">
