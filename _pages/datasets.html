@@ -5,13 +5,12 @@ permalink: /datasets/
 author_profile: true
 ---
 
-{% if site.datasetmap_link == true %}
+{% include base_path %}
 
-<p style="text-decoration:underline;"><a href="/datasetmap.html">See a map of all the places I've given a talk!</a></p>
 
-{% endif %}
-
-{% for post in site.datasets reversed %}
-  {% include archive-single-dataset.html %}
+{% for post in site.datasets %}
+  {% include archive-single.html %}
 {% endfor %}
+
+
 
