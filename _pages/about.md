@@ -15,16 +15,8 @@ I received my M.S. degree in Circuits and Systems from [Hubei University](https:
 My other academic homepages:<br>
 [Github1](https://github.com/chend2023) / [Github2](https://github.com/dange-academic) / [ResearchGate](https://www.researchgate.net/profile/Dan-Chen-29) / [Google Scholar](https://scholar.google.com/citations?user=Qm2XMekAAAAJ&hl=zh-CN)  
 
----
-permalink: /
-title: "Featured Publications"
-excerpt: "About me"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
 
+## [Featured Publications]<br>
 ### [Scaling Properties of Scale-Free Networks in Degree-Thresholding Renormalization Flows](https://ieeexplore.ieee.org/abstract/document/10100895)<br>
 D. Chen, D. Cai and H. Su, IEEE Transactions on Network Science and Engineering, 2023, 10(6): 3519-3528, Nov.-Dec. 2023.<br>
 Code is available at [Code](https://github.com/cdzqf/DTR).
