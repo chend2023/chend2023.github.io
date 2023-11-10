@@ -9,7 +9,7 @@ redirect_from:
 
 [Identification of Influential Nodes in Complex Networks With Degree and Average Neighbor Degree](https://ieeexplore.ieee.org/abstract/document/10145778)<br>
 D. Chen and H. Su. IEEE Journal on Emerging and Selected Topics in Circuits and Systems, 2023, 13(3): 734-742
----
+
 
 [Self-similarity of complex networks under centrality-based node removal strategy](https://iopscience.iop.org/article/10.1088/1674-1056/acd3e2/meta)<br>
 Dan Chen, Defu Cai, and Housheng Su. Chinese Physics B, 2023, 32: 098903
