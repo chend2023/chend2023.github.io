@@ -10,51 +10,38 @@ redirect_from:
 [Identification of Influential Nodes in Complex Networks With Degree and Average Neighbor Degree](https://ieeexplore.ieee.org/abstract/document/10145778)<br>
 D. Chen and H. Su. IEEE Journal on Emerging and Selected Topics in Circuits and Systems, 2023, 13(3): 734-742
 
-
 [Self-similarity of complex networks under centrality-based node removal strategy](https://iopscience.iop.org/article/10.1088/1674-1056/acd3e2/meta)<br>
 Dan Chen, Defu Cai, and Housheng Su. Chinese Physics B, 2023, 32: 098903
----
 
 [Scaling Properties of Scale-Free Networks in Degree-Thresholding Renormalization Flows](https://ieeexplore.ieee.org/abstract/document/10100895)<br>
 D. Chen, D. Cai and H. Su. IEEE Transactions on Network Science and Engineering, 2023, 10(6): 3519-3528
----
 
 [Possible origin of scaling laws in preferential attachment growth networks](https://www.sciencedirect.com/science/article/abs/pii/S0577907321002616)<br>
 Shuo Zheng, Dan Chen, Gui-Jun Pan. Chinese Journal of Physics, 2022, 77: 1610-1617
----
 
 [Geometric Renormalization Reveals the Self-Similarity of Weighted Networks](https://ieeexplore.ieee.org/abstract/document/9761989)<br>
 D. Chen, H. Su and Z. Zeng. IEEE Transactions on Computational Social Systems, 2023, 10(2): 426-434
----
 
 [Finite-size scaling of geometric renormalization flows in complex networks](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.104.034304)<br>
 Dan Chen, Housheng Su, Xiaofan Wang, et al. Phys. Rev. E, 2021, 104(3): 034304
----
 
 [Identification of network topology variations based on spectral entropy](https://ieeexplore.ieee.org/abstract/document/9409704)<br>
 Housheng Su, Dan Chen, Gui-Jun Pan, et al. IEEE Transactions on Cybernetics, 2021, 52(10): 10468-10478
----
 
 Framework based on communicability to measure the similarity of nodes in complex networks](https://www.sciencedirect.com/science/article/abs/pii/S0020025520302279)<br>
 Dan Chen, Housheng Su, Gui-Jun Pan. Information Sciences, 2020, 524: 241-253
----
 
 [Characterization of network complexity by communicability sequence entropy and associated Jensen-Shannon divergence](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.101.042305)<br>
 Dan-Dan Shi, Dan Chen, and Gui-Jun Pan. Phys. Rev. E, 2020, 101(4): 042305
----
 
 [Quantifying complex network information based on communicability sequence entropy (in Chinese)](https://www.sciengine.com/SSPMA/doi/10.1360/SSPMA-2019-0029)<br>
 Shi D D, Chen D, Long H M, et al. Sci Sin-Phys Mech Astron, 2019, 49: 070502, doi: 10.1360/SSPMA-2019-0029
----
 
 [Correlations between communicability sequence entropy and transport performance in spatially embedded networks](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.99.062310)<br>
 Dan Chen, Rui-Wu Niu, Pan Gui-Jun. Phys. Rev. E, 2019, 99(6): 062310
----
 
 [Correlation between the electrical transport performance and the communicability sequence entropy in complex networks (in Chinese)](https://wulixb.iphy.ac.cn/article/doi/10.7498/aps.68.20190230)<br>
 Chen Dan, Shi Dan-Dan, Pan Gui-Jun. Acta Phys. Sin., 2019, 68(11): 118901. doi: 10.7498/aps.68.20190230
----
 
 [Complex network comparison based on communicability sequence entropy](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.98.012319)<br>
 Dan Chen, Dan-Dan Shi, Mi Qin, et al. Phys. Rev. E, 2018, 98(1): 012319
----
