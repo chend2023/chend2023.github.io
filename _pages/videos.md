@@ -1,6 +1,6 @@
 ---
 permalink: /videos/
-title: "[复杂网络建模：基于Python+NetworkX的实现](https://www.bilibili.com/video/BV1WR4y1G7kH/)"
+title: "[复杂网络建模：基于Python+NetworkX的实现](https://www.bilibili.com/video/BV1GM4y1Q76f/?vd_source=519dd7a4b1f4260ebe31140657f52698)"
 author_profile: true
 redirect_from: 
   - /md/
