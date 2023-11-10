@@ -12,8 +12,8 @@ I am a PhD candidate with a strong interest in network science and machine learn
 
 I received my M.S. degree in Circuits and Systems from [Hubei University](https://www.hubu.edu.cn/), Wuhan, China, in 2019. Currently, I am pursuing a PhD degree in artificial intelligence from the School of Artificial Intelligence and Automation, [Huazhong University of Science and Technology](https://www.hust.edu.cn/), Wuhan, China.
 
-You can contact me in the following ways:<br>
-[Email](danchenzqf@gmail.com) / [Github](https://github.com/danchen2023) / [ResearchGate](https://www.researchgate.net/profile/Dan-Chen-29) / [Google Scholar](https://scholar.google.com/citations?user=Qm2XMekAAAAJ&hl=zh-CN)
+My other academic homepages:<br>
+[Github1](https://github.com/chend2023) / [Github2](https://github.com/dange-academic) / [ResearchGate](https://www.researchgate.net/profile/Dan-Chen-29) / [Google Scholar](https://scholar.google.com/citations?user=Qm2XMekAAAAJ&hl=zh-CN)
 
 
 
@@ -35,3 +35,19 @@ Code is available at [Code](https://github.com/cdzqf/Spectral-entropy).
 ### [Finite-size scaling of geometric renormalization flows in complex networks](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.104.034304)<br>
 <img src="../images/Featured-Pub4.png" width="80%"><br>
 Dan Chen, Housheng Su, Xiaofan Wang, et al. Phys. Rev. E, 2021, 104(3): 034304.
+
+### [Framework based on communicability to measure the similarity of nodes in complex networks](https://www.sciencedirect.com/science/article/abs/pii/S0020025520302279)<br>
+<img src="../images/Featured-Pub5.png" width="80%"><br>
+Dan Chen, Housheng Su, Gui-Jun Pan. Information Sciences, 2020, 524 (2020): 241–253.
+
+### [Characterization of network complexity by communicability sequence entropy and associated Jensen-Shannon divergence](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.101.042305)<br>
+<img src="../images/Featured-Pub6.png" width="80%"><br>
+Dan-Dan Shi, Dan Chen, and Gui-Jun Pan. Phys. Rev. E, 2020, 101(4): 042305.
+
+### [Correlations between communicability sequence entropy and transport performance in spatially embedded networks](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.99.062310)<br>
+<img src="../images/Featured-Pub7.png" width="80%"><br>
+Dan Chen, Rui-Wu Niu, and Gui-Jun Pan. Phys. Rev. E, 2019, 99(6): 062310.
+
+### [Complex network comparison based on communicability sequence entropy](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.98.012319)<br>
+<img src="../images/Featured-Pub8.png" width="80%"><br>
+Dan Chen, Dan-Dan Shi, Mi Qin, et al. Phys. Rev. E, 2018, 98(1): 012319 .
