@@ -17,7 +17,8 @@ My other academic homepages:<br>
 
 
 
-## Featured Publications 
+Featured Publications
+======
 ### [Scaling Properties of Scale-Free Networks in Degree-Thresholding Renormalization Flows](https://ieeexplore.ieee.org/abstract/document/10100895)<br>
 D. Chen, D. Cai and H. Su, IEEE Transactions on Network Science and Engineering, 2023, 10(6): 3519-3528, Nov.-Dec. 2023.<br>
 Code is available at [Code](https://github.com/cdzqf/DTR).
