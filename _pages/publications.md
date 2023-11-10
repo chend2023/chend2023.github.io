@@ -7,6 +7,29 @@ redirect_from:
   - /publications.html
 ---
 
+[Identification of Influential Nodes in Complex Networks With Degree and Average Neighbor Degree](https://ieeexplore.ieee.org/abstract/document/10145778)<br>
+D. Chen and H. Su. IEEE Journal on Emerging and Selected Topics in Circuits and Systems, 2023, 13(3): 734-742
+---
+
+[Self-similarity of complex networks under centrality-based node removal strategy](https://iopscience.iop.org/article/10.1088/1674-1056/acd3e2/meta)<br>
+Dan Chen, Defu Cai, and Housheng Su. Chinese Physics B, 2023, 32: 098903
+---
+
+[Scaling Properties of Scale-Free Networks in Degree-Thresholding Renormalization Flows](https://ieeexplore.ieee.org/abstract/document/10100895)<br>
+D. Chen, D. Cai and H. Su. IEEE Transactions on Network Science and Engineering, 2023, 10(6): 3519-3528
+---
+
+[Possible origin of scaling laws in preferential attachment growth networks](https://www.sciencedirect.com/science/article/abs/pii/S0577907321002616)<br>
+Shuo Zheng, Dan Chen, Gui-Jun Pan. Chinese Journal of Physics, 2022, 77: 1610-1617
+---
+
+[Geometric Renormalization Reveals the Self-Similarity of Weighted Networks](https://ieeexplore.ieee.org/abstract/document/9761989)<br>
+D. Chen, H. Su and Z. Zeng. IEEE Transactions on Computational Social Systems, 2023, 10(2): 426-434
+---
+
+[Finite-size scaling of geometric renormalization flows in complex networks](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.104.034304)<br>
+Dan Chen, Housheng Su, Xiaofan Wang, et al. Phys. Rev. E, 2021, 104(3): 034304
+---
 
 [Identification of network topology variations based on spectral entropy](https://ieeexplore.ieee.org/abstract/document/9409704)<br>
 Housheng Su, Dan Chen, Gui-Jun Pan, et al. IEEE Transactions on Cybernetics, 2021, 52(10): 10468-10478
