@@ -49,4 +49,5 @@ Dan Chen, Rui-Wu Niu, and Gui-Jun Pan. Phys. Rev. E, 2019, 99(6): 062310.<br>
 
 ### [Complex network comparison based on communicability sequence entropy](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.98.012319)<br>
 Dan Chen, Dan-Dan Shi, Mi Qin, et al. Phys. Rev. E, 2018, 98(1): 012319.<br>
+Code is available at [Code](https://github.com/dange-academic/communicability-sequence-entropy).<br>
 <img src="../images/Featured-Pub8.png" width="80%">
