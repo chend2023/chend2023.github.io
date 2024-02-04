@@ -35,13 +35,13 @@ H. Su, **D. Chen**, G.-J. Pan, et al. IEEE Transactions on Cybernetics, 2021, 52
 D.-D. Shi, **D. Chen**, and G.-J. Pan. Phys. Rev. E, 2020, 101(4): 042305
 
 [Quantifying complex network information based on communicability sequence entropy (in Chinese)](https://www.sciengine.com/SSPMA/doi/10.1360/SSPMA-2019-0029)<br>
-石丹丹, **陈单**, et al. Sci Sin-Phys Mech Astron, 2019, 49: 070502, doi: 10.1360/SSPMA-2019-0029
+石丹丹, **陈单**, et al. Sci Sin-Phys Mech Astron(中国科学: 物理学 力学 天文学), 2019, 49: 070502, doi: 10.1360/SSPMA-2019-0029
 
 [Correlations between communicability sequence entropy and transport performance in spatially embedded networks](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.99.062310)<br>
 **D. Chen**, R.-W. Niu, G.-J. Pan. Phys. Rev. E, 2019, 99(6): 062310
 
 [Correlation between the electrical transport performance and the communicability sequence entropy in complex networks (in Chinese)](https://wulixb.iphy.ac.cn/article/doi/10.7498/aps.68.20190230)<br>
-**陈单**, 石丹丹, 潘贵军. Acta Phys. Sin., 2019, 68(11): 118901. doi: 10.7498/aps.68.20190230
+**陈单**, 石丹丹, 潘贵军. Acta Phys. Sin.(物理学报), 2019, 68(11): 118901. doi: 10.7498/aps.68.20190230
 
 [Complex network comparison based on communicability sequence entropy](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.98.012319)<br>
 **D. Chen**, D.-D. Shi, M. Qin, et al. Phys. Rev. E, 2018, 98(1): 012319. [Code](https://github.com/dange-academic/communicability-sequence-entropy).
