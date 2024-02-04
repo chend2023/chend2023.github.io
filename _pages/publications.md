@@ -11,7 +11,7 @@ redirect_from:
 **D. Chen** and H. Su. IEEE Journal on Emerging and Selected Topics in Circuits and Systems, 2023, 13(3): 734-742. [Code](https://github.com/chend2023/identifying_important_nodes).
 
 [Self-similarity of complex networks under centrality-based node removal strategy](https://iopscience.iop.org/article/10.1088/1674-1056/acd3e2/meta)<br>
-**D. Chen**, D. Cai, and Housheng Su. Chinese Physics B, 2023, 32: 098903
+**D. Chen**, D. Cai, and H. Su. Chinese Physics B, 2023, 32: 098903
 
 [Scaling Properties of Scale-Free Networks in Degree-Thresholding Renormalization Flows](https://ieeexplore.ieee.org/abstract/document/10100895)<br>
 **D. Chen**, D. Cai and H. Su. IEEE Transactions on Network Science and Engineering, 2023, 10(6): 3519-3528. [Code](https://github.com/cdzqf/DTR).
