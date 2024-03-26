@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate with a strong interest in network science and machine learning, and my research interests involve renormalization and robustness of complex networks, social networks, information science, and graph neural networks.
-
-I received my M.S. degree in Circuits and Systems from [Hubei University](https://www.hubu.edu.cn/), Wuhan, China, in 2019. Currently, I am pursuing a PhD degree in artificial intelligence from the School of Artificial Intelligence and Automation, [Huazhong University of Science and Technology](https://www.hust.edu.cn/), Wuhan, China.
+I received my PhD degree in Control Science and Engineering from [Huazhong University of Science and Technology](https://www.hust.edu.cn/), Wuhan, China, in March 2024 (2020.09~2024.03). Before that, I received my M.S. degree in Circuits and Systems from [Hubei University](https://www.hubu.edu.cn/), Wuhan, China, in June 2019 (2016.09~2019.06). My research interests involve Renormalization and Robustness of Complex Networks, Social Networks, Information Science, and Graph Neural Networks.
 
 My other academic homepages:<br>
 [Github1](https://github.com/chend2023) / [Github2](https://github.com/dange-academic) / [ResearchGate](https://www.researchgate.net/profile/Dan-Chen-29) / [Google Scholar](https://scholar.google.com/citations?user=Qm2XMekAAAAJ&hl=zh-CN)  
