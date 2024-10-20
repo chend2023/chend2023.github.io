@@ -8,13 +8,22 @@ redirect_from:
   - /about.html
 ---
 
-I received my PhD degree in Control Science and Engineering from [Huazhong University of Science and Technology](https://www.hust.edu.cn/), Wuhan, China, in March 2024 (2020.09~2024.03). Before that, I received my M.S. degree in Circuits and Systems from [Hubei University](https://www.hubu.edu.cn/), Wuhan, China, in June 2019 (2016.09~2019.06). My research interests involve Renormalization and Robustness of Complex Networks, Social Networks, Information Science, and Graph Neural Networks.
+I received my PhD degree in Control Science and Engineering from [Huazhong University of Science and Technology](https://www.hust.edu.cn/), Wuhan, China, in March 2024 (2020.09~2024.03). Before that, I received my M.S. degree in Circuits and Systems from [Hubei University](https://www.hubu.edu.cn/), Wuhan, China, in June 2019 (2016.09~2019.06). My research interests involve renormalization and robustness of complex networks, social networks, information science, and graph neural networks.
 
 My other academic homepages:<br>
 [Github1](https://github.com/chend2023) / [Github2](https://github.com/dange-academic) / [ResearchGate](https://www.researchgate.net/profile/Dan-Chen-29) / [Google Scholar](https://scholar.google.com/citations?user=Qm2XMekAAAAJ&hl=zh-CN)  
 
 
+Invited Journal Reviewer:<br>
+&bullet Chaos<br>
+&bullet Humanities & Social Sciences Communications<br>
+&bullet IEEE Transactions on Network Science and Engineering<br>
+&bullet Knowledge-Based Systems<br>
+&bullet Nature Reviews Physics<br>
 
+
+
+<!--
 ### <font color=black size=6>Featured Publications</font><br>[Scaling Properties of Scale-Free Networks in Degree-Thresholding Renormalization Flows](https://ieeexplore.ieee.org/abstract/document/10100895)<br>
 **D. Chen**, D. Cai and H. Su, IEEE Transactions on Network Science and Engineering, 2023, 10(6): 3519-3528, Nov.-Dec. 2023. [Code](https://github.com/cdzqf/DTR).<br>
 <img src="../images/Featured-Pub1.png" width="80%">
@@ -46,3 +55,5 @@ D.-D. Shi, **D. Chen**, and G.-J. Pan. Phys. Rev. E, 2020, 101(4): 042305.<br>
 ### [Complex network comparison based on communicability sequence entropy](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.98.012319)<br>
 **D. Chen**, D.-D. Shi, M. Qin, et al. Phys. Rev. E, 2018, 98(1): 012319. [Code](https://github.com/dange-academic/communicability-sequence-entropy).<br>
 <img src="../images/Featured-Pub8.png" width="80%">
+
+-->
