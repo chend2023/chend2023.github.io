@@ -9,7 +9,7 @@ redirect_from:
 
 
 ## Real network datasets Project
-[Real network data sets used in some books and papers](https://github.com/danchen2023/real_network_datasets)
+[Real-world network datasets used in some books and papers](https://github.com/danchen2023/real_network_datasets)
 
 
 ## Mainstream open source datasets
