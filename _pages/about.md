@@ -15,11 +15,11 @@ I received my PhD degree in Control Science and Engineering from [Huazhong Unive
 
 
 #### <font color=black size=4>Invited Journal Reviewer:</font><br>
-&bullet; Nature Reviews Physics<br>
-&bullet; IEEE Transactions on Network Science and Engineering<br>
-&bullet; Knowledge-Based Systems<br>
-&bullet; Chaos<br>
-&bullet; Humanities & Social Sciences Communications<br>
+&diams; Nature Reviews Physics<br>
+&diams; IEEE Transactions on Network Science and Engineering<br>
+&diams; Knowledge-Based Systems<br>
+&diams; Chaos<br>
+&diams; Humanities & Social Sciences Communications<br>
 
 
 
