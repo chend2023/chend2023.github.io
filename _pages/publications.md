@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 [Extracting High-Fidelity Smaller Scale Subgraphs of Complex Networks by Edge-Reinforced Random Walk](https://ieeexplore.ieee.org/abstract/document/10500438)<br>
-**D. Chen** and H. Su. IEEE Transactions on Computational Social Systems, 2024, doi: 10.1109/TCSS.2024.3381777. [Code](https://github.com/dange-academic/ERRW).
+**D. Chen** and H. Su. IEEE Transactions on Computational Social Systems, 2024, 11(5): 6181-6191. [Code](https://github.com/dange-academic/ERRW).
 
 [Identification of Influential Nodes in Complex Networks With Degree and Average Neighbor Degree](https://ieeexplore.ieee.org/abstract/document/10145778)<br>
 **D. Chen** and H. Su. IEEE Journal on Emerging and Selected Topics in Circuits and Systems, 2023, 13(3): 734-742. [Code](https://github.com/chend2023/identifying_important_nodes).
