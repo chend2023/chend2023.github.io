@@ -15,11 +15,11 @@ My other academic homepages:<br>
 
 
 Invited Journal Reviewer:<br>
-&bullet; Chaos<br>
-&bullet; Humanities & Social Sciences Communications<br>
+&bullet; Nature Reviews Physics<br>
 &bullet; IEEE Transactions on Network Science and Engineering<br>
 &bullet; Knowledge-Based Systems<br>
-&bullet; Nature Reviews Physics<br>
+&bullet; Chaos<br>
+&bullet; Humanities & Social Sciences Communications<br>
 
 
 
